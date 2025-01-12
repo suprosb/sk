@@ -26,10 +26,10 @@
             "description": "Get this value from https://my.telegram.org"
         },
         "BOT_TOKEN": {
-            "description": "Get this value from @BotFather"
+            "description": "7599296541:AAFlArliuXECmdJwU_YsVcQl4LNkkuWAKwg"
         },
         "BIN_CHANNEL": {
-            "description": "The BIN Channel ID. Read the readme for more info about this var"
+            "description": "-1002417857429"
         },
         "DATABASE_URL": {
             "description": "MongoDB URI eg: mongodb://admin:pAswaRd@192.168.27.1"
@@ -64,14 +64,14 @@
             "value": "True"
         },
         "OWNER_ID": {
-            "description": "Your Telegram User ID(Note: Not Username)"
+            "description": "6136525516"
         },
         "UPDATES_CHANNEL": {
-            "description": "Update Channel Username without @ eg: AWeirdText",
+            "description": "nowbotupdates",
             "required": false
         },
         "FORCE_UPDATES_CHANNEL": {
-            "description": "Set to True, if you want every user Join update channel to use the bot",
+            "description": "-1002417857429",
             "required": false
         },
         "SESSION_NAME": {
