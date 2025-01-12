@@ -32,7 +32,7 @@
             "description": "-1002417857429"
         },
         "DATABASE_URL": {
-            "description": "MongoDB URI eg: mongodb://admin:pAswaRd@192.168.27.1"
+            "description": "mongodb+srv://suproboiragi2:t4GwmmrWCkUcX3Ui@cluster0.nn4hh.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
         },
         "SLEEP_THRESHOLD": {
             "description": "Floodwait Sleep timer. Read the readme for more info about this var",
