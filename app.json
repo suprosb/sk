@@ -20,10 +20,10 @@
             "value": "True"
         },
         "API_ID": {
-            "description": "Get this value from https://my.telegram.org"
+            "description": "21720330"
         },
         "API_HASH": {
-            "description": "Get this value from https://my.telegram.org"
+            "description": "a80217f50b30502cb654b5e87c1fd42a"
         },
         "BOT_TOKEN": {
             "description": "7599296541:AAFlArliuXECmdJwU_YsVcQl4LNkkuWAKwg"
